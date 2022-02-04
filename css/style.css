@@ -310,7 +310,7 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    overflow: hidden;
+    overflow: visible;
     height: 100vh;
     padding-top: 250px;
     padding-bottom: 170px;
